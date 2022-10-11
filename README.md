@@ -18,7 +18,7 @@ which includes translations from 13 recognized translators.
 11.  Mustafa khattab 
 12.  Ruwwad 
 13.  Tafheem adul ala maududi
-And the goal of text mining is to find out how much synonyms 
+ And the goal of text mining is to find out how much synonyms 
 in each translation have been measured as a percentage.
 # Method 
 There are 4 parts 
