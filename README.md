@@ -24,10 +24,15 @@ There are 4 parts
  * Text preprocessing
  * Model
 ### Access Data 
+Make a selection of the specified data used is the Excel file data.
 Node Repository is
-* **Excel Reader** Use the node used to read excel file.
+  **Excel Reader**
 
-
+### Tranfrom Data
+In this step it will be used to do
+Node Repository is
+ * **Row Filter** 
+ * **GroupBy**
 
 
 
