@@ -1,1 +1,1 @@
-# Quran-Simiraty
+# Quran-Similarity
