@@ -27,7 +27,6 @@ There are 4 parts
 Make a selection of the specified data used is the Excel file data.
    Node Repository is
   **Excel Reader**
-  ![Imgur](https://i.imgur.com/yHaIFdB.jpg)
 ### Tranfrom Data
 In this step it will be used to do
 Node Repository is
