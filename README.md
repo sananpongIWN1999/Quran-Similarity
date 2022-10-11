@@ -61,7 +61,17 @@ Then the words are put together using nodes **document vecter**and select the co
 #### Tranfrom data
 ![Imgur](https://i.imgur.com/Bqms0gd.jpg)
 ![Imgur](https://i.imgur.com/E1xcZhW.jpg)
-
+![Imgur](https://i.imgur.com/03EXiRB.jpg)
+#### text preprocessing
+![Imgur](https://i.imgur.com/p81oAqt.jpg)
+![Imgur](https://i.imgur.com/LfWwJsv.jpg)
+#### Model(TF-IDF)
+![Imgur](https://i.imgur.com/dPAOhNr.jpg)
+![Imgur](https://i.imgur.com/UYxlYRd.jpg)
+![Imgur](https://i.imgur.com/6EIpDPX.jpg)
+## Final result
+![Imgur](https://i.imgur.com/TLpDexk.jpg)
+![Imgur](https://i.imgur.com/H0i5atG.jpg)
 
 
 
