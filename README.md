@@ -56,8 +56,11 @@ Then the words are put together using nodes **document vecter**and select the co
  * **Row Filter**
  * **Similarity Search**
 # Results
-
-
+#### Access data
+![Imgur](https://i.imgur.com/vcHR91C.jpg)
+#### Tranfrom data
+![Imgur](https://i.imgur.com/Bqms0gd.jpg)
+![Imgur](https://i.imgur.com/E1xcZhW.jpg)
 
 
 
