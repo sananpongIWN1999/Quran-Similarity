@@ -22,7 +22,7 @@ And the goal of text mining is to find out how much synonyms
 in each translation have been measured as a percentage.
 # Method 
 There are 4 parts 
-      * Access Data
+* Access Data
       * Tranfrom Data
       * Text preprocessing
       * Model
