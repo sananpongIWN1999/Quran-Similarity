@@ -24,7 +24,8 @@ There are 4 parts
  * Text preprocessing
  * Model
 ### Access Data 
-
+Node Repository is
+* **Excel Reader** Use the node used to read excel file.
 
 
 
