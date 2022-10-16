@@ -1,7 +1,7 @@
 # Quran-Similarity
 Subject : Data mining 
 # Overview
-   This part of this work summarizes what I learned in the data mining section.This is a text mining, program using a program called KNIME.By using the data as an Excel file in the translation section of the Holy Quran from Surah Al Fatiha, which includes translations from 13 recognized translators.
+   This part of this work what I learned in the data mining section.This is a text mining, program using a program called KNIME.By using the data as an Excel file in the translation section of the Holy Quran from Surah Al Fatiha, which includes translations from 14 recognized translators.
  1.  Abdul haleem 
  2.  Pickthal 
  3.  Yusuf ali 
@@ -15,7 +15,7 @@ Subject : Data mining
 11.  Mustafa khattab 
 12.  Ruwwad 
 13.  Tafheem adul ala maududi 
-                                 
+14.  irv                                 
         And the goal of text mining is to find out how much synonyms in each translation have been measured as a percentage. 
 # Method 
 There are 4 parts 
@@ -57,21 +57,7 @@ Then the words are put together using nodes **document vecter**and select the co
  * **Similarity Search**
 # Results
 #### Access data
-![Imgur](https://i.imgur.com/vcHR91C.jpg)
-#### Tranfrom data
-![Imgur](https://i.imgur.com/Bqms0gd.jpg)
-![Imgur](https://i.imgur.com/E1xcZhW.jpg)
-![Imgur](https://i.imgur.com/03EXiRB.jpg)
-#### text preprocessing
-![Imgur](https://i.imgur.com/p81oAqt.jpg)
-![Imgur](https://i.imgur.com/LfWwJsv.jpg)
-#### Model(TF-IDF)
-![Imgur](https://i.imgur.com/dPAOhNr.jpg)
-![Imgur](https://i.imgur.com/UYxlYRd.jpg)
-![Imgur](https://i.imgur.com/6EIpDPX.jpg)
-## Final result
-![Imgur](https://i.imgur.com/TLpDexk.jpg)
-![Imgur](https://i.imgur.com/H0i5atG.jpg)
+
 
 
 
