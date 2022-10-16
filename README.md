@@ -58,7 +58,7 @@ Then the words are put together using nodes **document vecter**and select the co
 # Results
 #### Access data
 
-
+![Imgur](https://i.imgur.com/prRm9ME.jpg)
 
 
 
