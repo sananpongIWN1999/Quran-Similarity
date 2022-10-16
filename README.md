@@ -79,4 +79,4 @@ Then the words are put together using nodes **document vecter**and select the co
 ![Imgur](https://i.imgur.com/PD58zE0.jpg)
 
 
-x
+
