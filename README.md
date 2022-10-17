@@ -210,7 +210,9 @@ Then the words are put together using nodes **document vecter**and select the co
 
 ![image](https://user-images.githubusercontent.com/96813273/196080531-6369f412-d3ed-40b9-9b2a-5e095c6cdc68.png)
 
+# Conclusion
 
+# Suggestions
 
 
 
