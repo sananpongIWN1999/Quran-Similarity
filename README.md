@@ -134,6 +134,8 @@ Then remove the numerical words and spread the word. **Node Repository used is**
 
 ![image](https://user-images.githubusercontent.com/96813273/196078212-b825e047-10b0-431f-ac8f-aa9a6376b6f3.png)
 
+![dish](https://user-images.githubusercontent.com/96813273/196081396-524af257-a219-4e11-a4fa-2f8ea9c1fa41.JPG)
+
 * **Bag Of Words Creator**
 
 ![image](https://user-images.githubusercontent.com/96813273/196079779-513077d8-5632-4158-a8c2-f390e9c6aaa7.png)
