@@ -1,7 +1,7 @@
 # Quran-Similarity
 Subject : Data mining 
 # Overview
-   This part of this work what I learned in the data mining section.This is a text mining, program using a program called KNIME.By using the data as an Excel file in the translation section of the Holy Quran from Surah Al Fatiha, which includes translations from 14 recognized translators.And the goal of text mining is to find out how much synonyms in each translation have been measured as a percentage. 
+   This part of this work what I learned in the data mining section.This is a text mining, program using a program called KNIME.By using the data as an Excel file in the translation section of the Holy Quran from Surah Al Fatiha, which includes translations from 14 recognized translators.  
    1.  Abdul haleem 
    2.  Pickthal 
    3.  Yusuf ali 
@@ -212,7 +212,11 @@ Then the words are put together using nodes **document vecter**and select the co
 
 # Conclusion
 
+And the goal of text mining is to find out how much synonyms in each translation have been measured as a percentage.
+
 # Suggestions
+
+
 
 
 
